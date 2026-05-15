@@ -31,11 +31,16 @@ Beyond engineering, I like mastering tools that help me bring ideas to life:
 
 ---
 
-### 📫 How to Reach Me
-### 📫 Connect With Me
+### 📫 Connect With Me### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/qaswarah-al-qozy-9810763b8 ))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([YOUR_TWITTER_URL](https://x.com/QaswarahQu))
+<p align="left">
+  <a href="https://www.linkedin.com/in/qaswarah-al-qozy-9810763b8 " target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://x.com/QaswarahQu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+  </a>
+</p>
 
 ---
 

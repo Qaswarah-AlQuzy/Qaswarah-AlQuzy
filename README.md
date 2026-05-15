@@ -18,9 +18,9 @@ Beyond engineering, I like mastering tools that help me bring ideas to life:
 ---
 
 ### 🔭 What I'm Working On
-• Advancing my **solar water heater system project** for a university project 
-• Building small **game prototypes** to understand gameplay mechanics  
-• Improving my **SolidWorks modeling workflow** and rendering quality  
+ • Advancing my **solar water heater system project** for a university project 
+ • Building small **game prototypes** to understand gameplay mechanics  
+ • Improving my **SolidWorks modeling workflow** and rendering quality  
 
 ---
 

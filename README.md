@@ -35,13 +35,14 @@ Beyond engineering, I like mastering tools that help me bring ideas to life:
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/qaswarah-al-qozy-9810763b8 " target="_blank">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  <a href="https://x.com/QaswarahQu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" width="40"/>
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="40"/>
   </a>
 </p>
+
 
 ---
 

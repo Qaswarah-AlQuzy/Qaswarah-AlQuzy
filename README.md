@@ -6,21 +6,21 @@
 ---
 
 ### 🧠 About Me
-I'm deeply interested in **game development** 🎮 and **coding** in general — currently learning **C++**, **GDScript**, and exploring **game design principles**.  
-As a **SolidWorks designer**, I work on both **university projects** and **personal mechanical designs** that combine creativity with engineering precision.
+I'm deeply interested in **game development** 🎮 and **coding** in general 🧑‍💻. currently learning **C++**, **GDScript**, and exploring **game design principles**.  
+As a **SolidWorks designer** I work on both **university projects** and **personal mechanical designs** that combine creativity with engineering precision.
 
 Beyond engineering, I like mastering tools that help me bring ideas to life:
-- 🧩 **Microsoft Office Suite** (Word, Excel, PowerPoint)
-- 🎨 **Adobe Photoshop** for digital design
-- 🎬 **Adobe Premiere Pro** for video editing
-- 🌀 **Blender** (currently learning 3D modeling and animation)
+• 🧩 **Microsoft Office Suite** (Word, Excel, PowerPoint)
+• 🎨 **Adobe Photoshop** for digital design
+• 🎬 **Adobe Premiere Pro** for video editing
+• 🌀 **Blender** (currently learning 3D modeling and animation)
 
 ---
 
 ### 🔭 What I'm Working On
-- Advancing my **solar water heater system project** for a university project 
-- Building small **game prototypes** to understand gameplay mechanics  
-- Improving my **SolidWorks modeling workflow** and rendering quality  
+• Advancing my **solar water heater system project** for a university project 
+• Building small **game prototypes** to understand gameplay mechanics  
+• Improving my **SolidWorks modeling workflow** and rendering quality  
 
 ---
 

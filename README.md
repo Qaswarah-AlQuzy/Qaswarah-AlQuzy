@@ -38,7 +38,6 @@ Beyond engineering, I like mastering tools that help me bring ideas to life:
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="YOUR_TWITTER_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=x" width="40"/>
   </a>
